@@ -1477,4 +1477,4 @@ LOka.on('message', message => {
 
 
 
-LOka.login("NTQ2ODE0MjY1MzU3NzYyNTY2.D0tsGw.JKRm8UvLm2vXdU8Q0wwsBCfZO4A")
+client.login(process.env.BOT_TOKEN);
